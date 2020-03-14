@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCRUD</string>
+    <string name="add_emp">Tambah Pegawai</string>
+    <string name="list_emp">Daftar Pegawai</string>
+</resources>
